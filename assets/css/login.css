@@ -4,6 +4,7 @@ body {
   padding: 0;
   height: 100%;
   width: 100%;
+  /* background-color: pink; */
   background: url('/assets/images/login_bg.jpg') no-repeat center;
   background-size: cover;
 }
@@ -51,5 +52,5 @@ body {
 }
 
 .layui-input {
-  padding-left: 32px;
+  padding-left: 30px;
 }
